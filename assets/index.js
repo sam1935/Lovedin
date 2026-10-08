@@ -1,0 +1,12 @@
+export { default as homeIcon } from "@/assets/ic_home/home.png";
+export { default as matchesIcon } from "@/assets/ic_home/matches.png";
+export { default as filterIcon } from "@/assets/ic_home/filter.png";
+export { default as profileIcon } from "@/assets/ic_home/profile1.png";
+export { default as settingsIcon } from "@/assets/ic_settings/ic_settings.png";
+export { default as backgroundImage } from "@/assets/image/backgroundImage.png";
+export { default as coupleImage } from "@/assets/image/coupleImage.png";
+export { default as heartIcon } from "@/assets/image/heartIcon.png";
+export { default as logoIcon } from "@/assets/icon/logo.png";
+export { default as pinkDiamond } from "@/assets/image/pinkDiamond.png";
+export { default as verifiedIcon } from "@/assets/image/verifiedIcon.png";
+export { default as millionaireBadge } from "@/assets/image/millionaireBadge.png";
